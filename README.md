@@ -1,5 +1,5 @@
 # Effect Haplotypes and Structural Variants in Modern Maize Breeding
-
+![Main Figure](https://github.com/Jnhcau/EffectHaplotype-and-SV/blob/main/image.jpg)
 This repository contains the main scripts used in our paper:  
 “Effect haplotypes and structural variants reveal genetic architecture of modern maize breeding”.
 
